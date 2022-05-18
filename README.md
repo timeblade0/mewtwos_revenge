@@ -7,8 +7,8 @@ Source Code was made in Game Maker Studio 2
 
 Controls:  
 -------------------------
-A/D = Move Left/Right  
-W = Jump/Double Jump  
+A/D = Move Left/Move Right  
+W pr Space = Jump/Double Jump  
 Left Mouse = Shoot Psybeam  
 Right Mouse = Barrier Shield  
 Enter = Pause/Advance Story  
