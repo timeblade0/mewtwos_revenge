@@ -17,4 +17,5 @@ F2 = Restart Game
 
 How to Play:  
 -------------------------
-You will take control of mewtwo and have to fight many other pokemon. Unlike the GB pokemon games that use pp for the amount of a move you have, this game uses MP. When your shooting, flying, or shielding, you use MP.
+You will take control of Mewtwo and have to fight many other pokemon. 
+When you are shooting, flying, or shielding, you use PP.  
