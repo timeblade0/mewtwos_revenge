@@ -1,7 +1,6 @@
 # Mewtwo's Revenge
 
 Base on the movie Mewtwo Strikes Back  
-Source Code was made in Game Maker Studio 2
 
 ![Screenshot](https://github.com/timeblade0/mewtwos_revenge/blob/main/screenshot.png)
 
