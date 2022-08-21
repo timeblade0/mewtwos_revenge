@@ -1,0 +1,1 @@
+obj_textbox.sprite_index=spr_scientist_talk_lab

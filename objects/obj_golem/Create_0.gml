@@ -1,0 +1,13 @@
+image_speed = 0;
+dire = 2;
+global.enehp = 700;
+global.enemp = 0;
+damage_taken = -10;
+unit_speed = 2;
+image_speed = 0;
+image_index = 0;
+vspeed = 2;
+wait = 0;
+type = 0;
+p1_relative = 2;
+cooldown = 0;

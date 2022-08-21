@@ -1,0 +1,9 @@
+unit_speed=3
+direction=180
+speed=unit_speed
+dire = 2;
+armor = 1;
+global.enehp = 400;
+global.enemp = 0;
+damage_taken = -10;
+wait = 0;

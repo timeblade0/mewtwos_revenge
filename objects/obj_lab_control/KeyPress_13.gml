@@ -1,0 +1,1 @@
+//don't allow pausing in lab

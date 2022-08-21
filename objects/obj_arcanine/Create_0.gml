@@ -1,0 +1,11 @@
+dire = 2;
+global.enehp = 500;
+global.enemp = 0;
+damage_taken = -10;
+unit_speed = 4;
+image_speed = 0;
+image_index = 0;
+direction=180
+speed=unit_speed
+wait = 0;
+alarm[3]=60

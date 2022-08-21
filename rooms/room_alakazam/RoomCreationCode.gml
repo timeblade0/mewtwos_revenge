@@ -1,0 +1,1 @@
+global.team_mode=0;
