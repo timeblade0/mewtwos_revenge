@@ -1,6 +1,0 @@
-#20220517 SMW
-	ported to GMS2
-	scaled all rooms up to 640x480
-	higher resolution background and story pics
-	changed FPS from 30 to 60 and balanced objects speeds for it
-	updated alakazam reflect sprite
